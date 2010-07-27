@@ -1,0 +1,3 @@
+This is a collection of Clojure helper functions that I've created.
+
+I use most of these functions in my stock strategy backtesting tool.
